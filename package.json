@@ -1,0 +1,10 @@
+{
+    "name": "RealTimeGame-SocketIO-EXAMPLE",
+    "version": "0.0.1",
+    "description": "RTGame-SIO",
+    "dependencies": {
+        "socket.io": "latest",
+        "moniker": "latest"
+    },
+    "author": "dev"
+}
